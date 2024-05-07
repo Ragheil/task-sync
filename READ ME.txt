@@ -21,3 +21,5 @@ run http://localhost:8080/index.php
 
 make sure install php extension sa vs code then all goods na dayun
 
+features added and modified- no more darkmode, print Task report
+
